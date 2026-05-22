@@ -117,13 +117,6 @@ Employee Management/
 └── Program.cs          # Entry point
 ```
 
----
-
-## Screenshots
-
-> *(Screenshots of Login Form, Dashboard, Employee Management, Employee Portal)*
-
----
 
 ## Developer
 
